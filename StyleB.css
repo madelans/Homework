@@ -1,0 +1,48 @@
+.letter {
+    width: 100px;
+    height: 150px;
+    background: #eeeff2;
+    margin: 10px;
+    font-size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-left-style: dotted;
+    border-left-width: 10px;
+    border-left-color: #D0D0FF;
+    padding-left: 10px;
+}
+.letter:hover {
+    background-color: yellow;
+    color: goldenrod;
+    transition-duration: 0.5s;
+}
+.letterF {
+    width: 100px;
+    height: 150px;
+    background: #eeeff2;
+    margin: 10px;
+    font-size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-left-style: dotted;
+    border-left-width: 10px;
+    border-left-color: #D0D0FF;
+    padding-left: 10px;
+    margin-top: 350px;
+    margin-left: 850px;
+    position: fixed;
+}
+.letterF:hover {
+    background-color: yellow;
+    color: goldenrod;
+    transition-duration: 1.2s;
+}
+.groupAB {
+    display: flex;
+    flex-direction: row;
+    position: absolute;
+    margin-left: 40px;
+    margin-top: 40px;
+}
+h1 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 40px;
+}
