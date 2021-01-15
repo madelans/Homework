@@ -8,3 +8,8 @@ Consultas:
   
   - En el codigo CSS, está bien definido la posición de cada elemento? o tiene que seguir algún orden? 
   -Cual es el tamaño de la ventana web por default. 
+  
+  
+  
+Referencias: 
+https://cssreference.io/transitions/
